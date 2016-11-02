@@ -1,5 +1,5 @@
 {
-  "name": "sawmon-secure-google",
+  "name": "sawmon-protect-google",
   "version": "0.0.0",
   "dependencies": {
     "connect-ensure-login": "^0.1.1",
